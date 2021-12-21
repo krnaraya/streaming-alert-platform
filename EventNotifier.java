@@ -11,8 +11,8 @@ public class EventNotifier extends RouteBuilder {
     private String consumerMaxPollRecords = "50000";
     private String consumerGroup = "weathearEventGroup";
     private  String kafkaBootstrap = "my-cluster-kafka-brokers:9092";
-    private String awsAccessKey = "AKIATPKDNC373PPAEZIM";
-    private String awsSecretKey = "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";
+    private String awsAccessKey = "";
+    private String awsSecretKey = "";
 
     @Override
     public void configure() throws Exception {
