@@ -1,4 +1,4 @@
-
+If you need Kafka UI - deploy kafdrop using oc apply -f kafdrop.yaml
 
 You can find more information about Apache Camel and Apache Camel K on the [official Camel website](https://camel.apache.org).
 
