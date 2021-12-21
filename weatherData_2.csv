@@ -1,0 +1,4 @@
+Date,Location,MinTemp,MaxTemp,Rainfall,Evaporation,Sunshine,WindGustDir,WindGustSpeed,WindDir9am,WindDir3pm,WindSpeed9am,WindSpeed3pm,Humidity9am,Humidity3pm,Pressure9am,Pressure3pm,Cloud9am,Cloud3pm,Temp9am,Temp3pm,RainToday,RainTomorrow
+2021-12-31,Woomera,10.9,18.5,0,8.6,NA,S,70,S,S,24,17,57,45,1025.6,1023.8,4,6,14.3,17,No,No
+2021-12-31,Woomera,-1.4,14.7,0,NA,NA,E,50,NW,ESE,2,9,92,52,1028.9,1024.7,NA,NA,3.6,14.1,No,No
+2021-12-28,Rockbank,-1.4,14.7,0,NA,NA,E,60,NW,ESE,2,9,92,52,1028.9,1024.7,NA,NA,3.6,14.1,No,No
